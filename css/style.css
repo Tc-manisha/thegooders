@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+}
+.nav-list{
+    width: 50%;
+    background-color: yellow;
+}
+.navbar ul{
+    list-style: none;
+    padding: -30;
+    margin: 0%;
+   text-align:center ;
+}
+
+.footer {
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:transparent;
+    color: white;
+    text-align: center;
+    height: 25%;
+    padding: auto;
+ }
+
